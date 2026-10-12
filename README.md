@@ -8,10 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prohunter71013&color=a855f7&style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/prohunter71013.svg?style=for-the-badge&color=a855f7&label=profile%20views)
 ![Followers](https://img.shields.io/github/followers/prohunter71013?style=for-the-badge&color=ec4899&logo=github)
-![Stars](https://img.shields.io/github/stars/prohunter71013?style=for-the-badge&color=f59e0b&logo=github)
-
+![Stars](https://img.shields.io/github/stars/prohunter71013/simple_python_project?style=for-the-badge&color=f59e0b&logo=github)
 </div>
 
 ---
